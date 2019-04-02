@@ -1,0 +1,2 @@
+# aldogrofirst
+Basic exercises
