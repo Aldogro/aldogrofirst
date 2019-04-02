@@ -1,2 +1,2 @@
 # aldogrofirst
-Basic exercises
+Basic exercises in JavaScript
