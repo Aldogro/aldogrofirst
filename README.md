@@ -1,2 +1,2 @@
 # aldogrofirst
-Basic exercises in JavaScript
+Basic exercises in JavaScript, loops, selectors, interactions, validations, etc.
